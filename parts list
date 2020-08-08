@@ -1,5 +1,6 @@
-First, you're going to need a Raspberry Pi, version 4, 4GB+. You should make sure it comes with a power cord and heat sinks. https://www.adafruit.com/product/4296
+[Raspberry Pi 4B] https://www.adafruit.com/product/4296
+[RELAY HAT FOR THE PI] https://www.czh-labs.com/products/8-spst-no-rpi-iot-power-relay-module-for-raspberry-pi-a-3a-b-2b-3b-3b
 
+ALTERNATIVE POWER OPTION: 
 Next, you'll need a few male/female jumpers for the GPIO pins, like so: https://www.adafruit.com/product/826 (you should get semi-long ones so that they can reach the power relays)
-
 For EACH device you plan to give ARIA independant control of, you'll need a "Controllable Four Outlet Power Relay Module version 2" https://www.adafruit.com/product/2935
